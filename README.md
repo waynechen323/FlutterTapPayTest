@@ -6,7 +6,7 @@
 
 #### STEP 1
 
-複製 <this project>/android/app/libs/tpdirect.aar 到 <your project>/android/app/libs/tpdirect.aar
+複製 \<this project\>/android/app/libs/tpdirect.aar 到 \<your project\>/android/app/libs/tpdirect.aar
 
 
 #### STEP 2
@@ -56,7 +56,7 @@ Android 專案必要檔案：
  - test_tappay/android/app/src/main/res/values/styles.xml (內容要新增)
 
  #### STEP 4 Manifest
- /Users/waynechen/git/workspace-flutter/test_tappay/android/app/src/main/AndroidManifest.xml
+ \<your project\>/android/app/src/main/AndroidManifest.xml
 
 加上 INTERNET 權限
 ```
